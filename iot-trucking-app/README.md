@@ -1,3 +1,5 @@
+Cloned from George's Repo
+
 # HDF 2.0 Streaming Analytics Reference Application
 This project is meant to be a reference application for the Hortonworks Data Flow Platform (HDF) The project consists of 5 projects:
 
